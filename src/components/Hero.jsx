@@ -16,10 +16,9 @@ const Hero = () => {
             Private Beaches & Getaways
           </h1>
           <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ut quis
-            est, id consequuntur sequi ipsum vitae sit non exercitationem.
+          Escape to paradise and indulge in the ultimate relaxation. Book your stay now and experience pure bliss in our secluded haven
           </p>
-          <button className='bg-white text-black '>Reserve Now</button>
+          <button className='bg-white text-black '>Make Your Reservation</button>
         </div>
       </div>
     </div>

@@ -35,14 +35,10 @@ const Plan = () => {
       <div className='flex flex-col h-full justify-center'>
         <h3 className='text-5xl md:text-6xl font-bold'>Plan Your Next Trip</h3>
         <p className='text-2xl py-6'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias,
-          nam?
+        Ready to embark on your next adventure?
         </p>
         <p className='pb-6'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
-          voluptates nostrum dolorum reprehenderit error! Doloribus est illo
-          eius saepe? Molestias sapiente perspiciatis doloribus consectetur
-          nihil facilis aliquid eaque vel quisquam.
+        Our resort is here to help you plan the perfect getaway. Whether you're dreaming of a romantic escape, a family vacation, or a solo adventure, we've got you covered. Our dedicated team of travel experts will assist you every step of the way, from choosing the ideal accommodations to curating personalized itineraries. With our insider knowledge and attention to detail, we'll ensure that your trip is nothing short of extraordinary. Start planning your dream vacation today and let us take care of the rest!
         </p>
         <div>
           <button className='border-black mr-4 hover:shadow-xl'>
